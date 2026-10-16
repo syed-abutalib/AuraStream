@@ -1,0 +1,13 @@
+.tools/
+vcpkg_installed/
+build/
+backend/build/
+node_modules/
+frontend/dist/
+.env
+*.local
+*.log
+backend/uploads/*/*
+!backend/uploads/*/.gitkeep
+test-results/
+.vs/
